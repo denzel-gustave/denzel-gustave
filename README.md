@@ -34,8 +34,8 @@ I am always willing to learn, grow my experience and network with industry profe
 
 #### **Certifications:**
 Amazon Web Services (AWS)
-- 🥇 AWS Certified Solutions Architect
-- 🥇 AWS Certified Cloud Practitioner
+- 🥇 [AWS Certified Solutions Architect](https://www.credly.com/badges/5b9f1a99-3e02-4878-bfb2-492038309c4e)
+- 🥇 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ccc122c3-8bb6-4a3c-9685-8b6908b07f98)
 
 Google
 - ⚙️ Google Certified IT Support Professional (Pending...3/5)
