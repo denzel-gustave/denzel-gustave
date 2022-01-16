@@ -38,8 +38,8 @@ Amazon Web Services (AWS)
 - 🥇 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ccc122c3-8bb6-4a3c-9685-8b6908b07f98)
 
 Google
-- ⚙️ Google Certified IT Support Professional (Pending...3/5)
+- 🥇 [Google Certified IT Support Professional](https://www.credly.com/badges/b49a110e-f849-42d8-a756-7419fcff4774/public_url)
 
 **Pro Tip:** Computer Networking is at the core of almost everything tech related, especially the Cloud!
 
-Ps. Proud Kura Labs Student, Cohort 2!
+Ps. Proud Student of Kura Labs, Cohort 2!
