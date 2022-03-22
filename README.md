@@ -41,6 +41,6 @@ Amazon Web Services (AWS)
 Google
 - 🥇 [Google Certified IT Support Professional](https://www.credly.com/badges/b49a110e-f849-42d8-a756-7419fcff4774/public_url)
 
-**Pro Tip:** Our industry does not respect tradition, it only respects innovation!
+**Satya Nadella:** Our industry does not respect tradition, it only respects innovation!
 
 Ps. Proud Student of Kura Labs, Cohort 2!
