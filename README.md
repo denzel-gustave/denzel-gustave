@@ -34,12 +34,13 @@ I am always willing to learn, grow my experience and network with industry profe
 
 #### **Certifications:**
 Amazon Web Services (AWS)
-- 🥇 [AWS Certified Solutions Architect](https://www.credly.com/badges/5b9f1a99-3e02-4878-bfb2-492038309c4e)
-- 🥇 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ccc122c3-8bb6-4a3c-9685-8b6908b07f98)
+- 🥇 [AWS Certified Developer](https://www.credly.com/badges/748ef15f-24b9-42f8-8fb0-648dcb3e33f2/public_url)
+- 🥇 [AWS Certified Solutions Architect](https://www.credly.com/badges/5b9f1a99-3e02-4878-bfb2-492038309c4e/public_url)
+- 🥇 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/768df019-0a12-44c8-b856-667fd231f423/public_url)
 
 Google
 - 🥇 [Google Certified IT Support Professional](https://www.credly.com/badges/b49a110e-f849-42d8-a756-7419fcff4774/public_url)
 
-**Pro Tip:** Computer Networking is at the core of almost everything tech related, especially the Cloud!
+**Pro Tip:** Our industry does not respect tradition, it only respects innovation!
 
 Ps. Proud Student of Kura Labs, Cohort 2!
