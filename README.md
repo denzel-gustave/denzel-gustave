@@ -43,4 +43,4 @@ Google
 
 **Satya Nadella:** Our industry does not respect tradition, it only respects innovation!
 
-Ps. Proud Student of Kura Labs, Cohort 2!
+Ps. My GitHub work is largely stored on my private company account, this account is mostly used for testing.
